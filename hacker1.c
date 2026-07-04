@@ -17,9 +17,6 @@ printf("%s\n",sen);
 
 
 
-
-
-
     return 0;
 }
   
